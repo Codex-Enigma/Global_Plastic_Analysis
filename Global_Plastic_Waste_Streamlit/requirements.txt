@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+folium
+geopandas
+shapely
+fiona
+pyproj
+rtree
