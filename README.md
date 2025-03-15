@@ -10,6 +10,7 @@ Plastic waste is a major environmental challenge, impacting marine ecosystems, w
 🔹 **Dynamic Visualizations:** Engaging Plotly charts, interactive world maps (Folium), and trend analyses. 
 🔹 **Hover Tooltips:** Get insights on hover without cluttering the UI.  
 
+
 ### **Jupyter Notebook (EDA & Visualization)**
 🔹 **Exploratory Data Analysis (EDA):** Data cleaning, transformation, and statistical insights.  
 🔹 **Data Visualizations:** Seaborn & Matplotlib charts for trends, correlations, and distribution analysis.  
