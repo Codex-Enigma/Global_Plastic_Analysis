@@ -27,12 +27,12 @@ Plastic waste is a major environmental challenge, impacting marine ecosystems, w
 ## 📚 How to Use
 ### **Run the Jupyter Notebook**
 ```bash
-jupyter notebook global_plastic_waste_analysis.ipynb
+jupyter notebook "Global Plastic.ipynb"
 ```
 
 ### **Run the Streamlit App**
 ```bash
-streamlit run app.py
+streamlit run global.py
 ```
 
 ## 🌿 Insights & Impact
