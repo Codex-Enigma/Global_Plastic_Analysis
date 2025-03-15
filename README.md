@@ -1,7 +1,5 @@
 # 🌍 Global Plastic Waste Analysis & Visualization
 
-# 🌍 Global Plastic Waste Analysis & Visualization  
-
 🔗 ** Explore Now:** [Explore the Streamlit App](https://globalplasticanalysis-e9kxethukbcbpxo6pvt23t.streamlit.app/)  
 
 ## 🌱 Project Overview
