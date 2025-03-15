@@ -2,7 +2,7 @@ import geopandas as gpd
 import folium
 from streamlit_folium import folium_static
 import streamlit as st
-from eda import global_plastic
+from EDA import global_plastic
 import pandas as pd
 
 # Fixing incorrect geometries for small islands
