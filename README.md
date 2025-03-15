@@ -7,7 +7,7 @@ Plastic waste is a major environmental challenge, impacting marine ecosystems, w
 
 ## 📊 Features
 ### **Streamlit Dashboard**
-🔹 **Interactive Filters:** Analyze plastic waste data with filters for Main Sources, Coastal Waste Risk Levels, and Recycling Rates (%) for deeper insights.
+🔹 **Interactive Filters**: Analyze plastic waste data with filters for Main Sources, Coastal Waste Risk Levels, and Recycling Rates (%) for deeper insights.
 🔹 **Storytelling:** Includes an introduction, visual images, inspiring stories, and recycling tips & solutions.  
 🔹 **Dynamic Visualizations:** Engaging Plotly charts, interactive world maps (Folium), and trend analyses.  
 🔹 **Hover Tooltips:** Get insights on hover without cluttering the UI.  
