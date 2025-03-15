@@ -62,4 +62,4 @@ MIT License - Free to use and modify.
 
 
 # Link to my Streamlit
-https://globalplasticanalysis-2z8bewahkmwx5k5ka9ajfu.streamlit.app/
+https://globalplasticanalysis-e9kxethukbcbpxo6pvt23t.streamlit.app/
