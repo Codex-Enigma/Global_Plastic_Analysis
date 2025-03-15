@@ -1,5 +1,9 @@
 # 🌍 Global Plastic Waste Analysis & Visualization
 
+# 🌍 Global Plastic Waste Analysis & Visualization  
+
+🔗 ** Explore Now:** [Explore the Streamlit App](https://globalplasticanalysis-e9kxethukbcbpxo6pvt23t.streamlit.app/)  
+
 ## 🌱 Project Overview
 Plastic waste is a major environmental challenge, impacting marine ecosystems, wildlife, and human health. This project provides an interactive **Streamlit app** and an in-depth **Jupyter Notebook analysis** to explore global plastic waste trends, recycling rates, and actionable insights.
 
@@ -87,8 +91,3 @@ MIT License - Free to use and modify.
 
 ---
 🌱 **Together, we can reduce plastic waste and protect our planet!**
-
-
-
-# Link to my Streamlit
-https://globalplasticanalysis-e9kxethukbcbpxo6pvt23t.streamlit.app/
