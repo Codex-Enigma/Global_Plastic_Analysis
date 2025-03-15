@@ -6,9 +6,9 @@ Plastic waste is a major environmental challenge, impacting marine ecosystems, w
 ## 📊 Features
 ### **Streamlit Dashboard**
 🔹 **Interactive Filters:** Explore plastic waste data by country, year, and waste type.  
-🔹 **Dynamic Visualizations:** Engaging Plotly charts, interactive world maps (Folium), and trend analyses.   
-🔹 **PDF Report Download:** Generate a customized report of key findings.  
-🔹 **Dark Theme Toggle:** User-friendly interface with light/dark mode.   
+ 🔹**Storytelling: Includes an introduction, visual images, inspiring stories, and recycling tips & solutions.
+🔹 **Dynamic Visualizations:** Engaging Plotly charts, interactive world maps (Folium), and trend analyses. 
+
 🔹 **Hover Tooltips:** Get insights on hover without cluttering the UI.  
 
 ### **Jupyter Notebook (EDA & Visualization)**
@@ -21,7 +21,6 @@ Plastic waste is a major environmental challenge, impacting marine ecosystems, w
 - **Python:** pandas, numpy, matplotlib, seaborn, geopandas, plotly, folium
 - **Streamlit:** Interactive web-based data visualization
 - **Jupyter Notebook:** Exploratory data analysis & visualization
-- **API Integration:** Fetching real-time plastic waste facts
 - **Data Sources:** Open datasets on global plastic waste statistics
 
 ## 📚 How to Use
@@ -50,8 +49,6 @@ streamlit run app.py
 ## 🚀 Contributing
 We welcome contributions! Feel free to fork the repo, make improvements, and submit pull requests.
 
-## 👀 Demo & Screenshots
-*(Add relevant screenshots here)*
 
 ## 📢 License
 MIT License - Free to use and modify.
