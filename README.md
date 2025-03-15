@@ -37,30 +37,29 @@ streamlit run Global_Plastic_Waste_Streamlit/global.py
 
 ## 🌿 Insights & Impact
 1️⃣ Top Plastic Waste Producers Dominate
-
-China (59M tons), U.S. (42M tons), and India (26M tons) are the largest contributors.
-Plastic waste generation drops significantly after the top three, with Germany, Brazil, and Indonesia at around 6M tons.
+🔹China (59M tons), U.S. (42M tons), and India (26M tons) are the largest contributors to global plastic waste.
+🔹Plastic waste generation drops significantly after the top three, with Germany, Brazil, and Indonesia at around 6M tons.
 
 2️⃣ High Coastal Risk Areas Need Urgent Attention
-
-44.85% of global regions fall under high-risk zones, posing severe environmental threats.
-Very high-risk areas (2.42%) require immediate intervention, as they face extreme plastic leakage into oceans.
+🔹44.85% of global regions fall under high-risk zones, posing severe environmental threats.
+🔹Very high-risk areas (2.42%) require immediate intervention, as they face extreme plastic leakage into oceans.
 
 3️⃣ Recycling Leaders vs. Waste Producers
-Japan leads with an 84.8% recycling rate, while Singapore (59.8%) and South Korea (59.1%) also excel.
-The U.S., despite being a top waste producer, is absent from the top recyclers, revealing inefficiencies in waste management.
+🔹Japan leads with an 84.8% recycling rate, followed by Singapore (59.8%) and South Korea (59.1%).
+🔹The U.S., despite being a top waste producer, is absent from the top recyclers, revealing inefficiencies in waste management.
 
 4️⃣ Per Capita Waste vs. Total Plastic Waste Shows Disparities
-Most countries cluster in the lower waste range, but a few extreme values highlight massive differences in waste generation.
-Coastal regions remain vulnerable, regardless of total plastic waste, showing pollution risk is not solely based on waste quantity.
+🔹Most countries cluster in the lower waste range, but a few extreme values highlight major differences in waste generation.
+🔹Coastal regions remain vulnerable, regardless of total plastic waste, proving pollution risk is not solely dependent on waste quantity.
 
 5️⃣ Plastic Waste Has Increased Drastically Over Time
-Global plastic waste has surged from ~2M tons (1950) to over 380M tons (2023), highlighting unsustainable plastic use.
-Industrialized nations remain key contributors, emphasizing the need for stricter policies and circular economy models.
+🔹Global plastic waste has surged from ~2M tons (1950) to over 380M tons (2023), highlighting unsustainable plastic use.
+🔹Industrialized nations remain key contributors, emphasizing the need for stricter waste policies and circular economy models.
 
 6️⃣ Recycling & Waste Correlations Show Limited Progress
-Total plastic waste vs. recycling rate has a weak correlation (0.21), proving high waste production does not guarantee effective recycling.
-Recycling rate vs. per capita waste (0.30 correlation) shows that higher per capita waste does not necessarily mean better recycling efforts.
+🔹Total plastic waste vs. recycling rate has a weak correlation (0.21), proving that high waste production does not guarantee effective recycling.
+🔹Recycling rate vs. per capita waste (0.30 correlation) shows that higher per capita waste does not necessarily mean better recycling efforts.
+
 
 ## 🛡️ Future Enhancements
 - Machine learning predictions for future plastic waste trends.
