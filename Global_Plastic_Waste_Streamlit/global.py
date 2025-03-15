@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-from eda import *
+from EDA import *
 from storytelling_script import storytelling_app
 from map import interactive_map
 
@@ -8,7 +8,7 @@ global_plastic = pd.read_csv('Plastic Waste Around the World.csv')
 
 
 st.sidebar.title("🌍 Plastic Waste Storytelling App")
-menu = st.sidebar.radio("Select Page", ["EDA", "Storytelling", "Interactive Map"])
+menu = st.sidebar.radio("Select Page", ["Data Insights", "Storytelling", "Interactive Map"])
 
 def set_background():
     st.markdown(
@@ -24,7 +24,7 @@ def set_background():
 
 set_background()
 
-if menu == "EDA":
+if menu == "Data Insights":
     st.title("📊 Plastic Waste Analysis")
 
     tab1, tab2, tab3, tab4 = st.tabs([
