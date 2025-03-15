@@ -8,7 +8,6 @@ Plastic waste is a major environmental challenge, impacting marine ecosystems, w
 🔹 **Interactive Filters:** Explore plastic waste data by country, year, and waste type.  
 🔹 **Storytelling**: Includes an introduction, visual images, inspiring stories, and recycling tips & solutions.
 🔹 **Dynamic Visualizations:** Engaging Plotly charts, interactive world maps (Folium), and trend analyses. 
-
 🔹 **Hover Tooltips:** Get insights on hover without cluttering the UI.  
 
 ### **Jupyter Notebook (EDA & Visualization)**
